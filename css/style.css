@@ -102,3 +102,24 @@ header a:hover {
 #socmed li img {
 	width: 90px;
 }
+
+/* boxes */
+#boxes {
+	margin-top: 10px;
+}
+
+#boxes h1 {
+	text-align: center;
+}
+
+#boxes .box {
+	float: left;
+	width: 33.3%;
+	padding: 10px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+#boxes .box img {
+	width: 90px;
+}
