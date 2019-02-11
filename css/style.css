@@ -59,10 +59,9 @@ header nav {
 }
 
 header a:hover {
-	clor: #ccc;
+	color: #ccc;
 	font-weight: bold;
 }
-
 
 /* showcase */
 #showcase {
@@ -78,4 +77,28 @@ header a:hover {
 
 #showcase p {
 	font-size: 20px;
+}
+
+
+/* socmed */
+#socmed {
+	background: #35424a;
+	text-align: center;
+}
+
+#socmed h1 {
+	color: #fff;
+}
+
+#socmed li {
+	display: inline;
+	padding: 0 20px;
+}
+
+#socmed ul {
+	margin-bottom: 20px;
+}
+
+#socmed li img {
+	width: 90px;
 }
