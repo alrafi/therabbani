@@ -120,6 +120,22 @@ header a:hover {
 	box-sizing: border-box;
 }
 
+#boxes .box h3 {
+	font-size: 22px;
+}
+
+#boxes .box p {
+	font-size: 16px;
+}
+
 #boxes .box img {
 	width: 90px;
+}
+
+/* footer */
+footer {
+	background: #05b1c1;
+	text-align: center;
+	padding: 5px;
+	margin-top: 20px;
 }
